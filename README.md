@@ -1,3 +1,4 @@
 # demo
-This Is My First Git Repository
-Author:Aastha Mehra
+This Is My First Git Repository.
+<br>
+Author - Aastha Mehra
